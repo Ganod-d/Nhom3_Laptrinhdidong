@@ -1,0 +1,1020 @@
+{
+   "checksum": "ef14a8018c4fb0bc90360c9a3efda57a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13174796372597834",
+            "date_last_used": "0",
+            "guid": "0e025431-c936-4814-8a0c-2f86d6966f13",
+            "id": "5",
+            "name": "Tab mới",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13174333411868485",
+            "date_last_used": "0",
+            "guid": "2a45757b-af11-4706-9325-8bacbc03e65a",
+            "id": "6",
+            "name": "Giáo trình tiếng Đức A1",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vi.scribd.com/doc/296577613/Giao-trinh-ti%E1%BA%BFng-%C4%90%E1%BB%A9c-A1"
+         }, {
+            "date_added": "13174803089676071",
+            "date_last_used": "0",
+            "guid": "db2bab71-fa9b-4aa0-b8ca-3f1686622139",
+            "id": "7",
+            "name": "bai tap ngu phap tieng duc a1 - Tìm với Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com.vn/search?q=bai+tap+ngu+phap+tieng+duc+a1&oq=bai+tap+ngu+phap+tieng+duc+a1+&aqs=chrome..69i57.11328j0j7&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13175709714698108",
+            "date_last_used": "0",
+            "guid": "ff888427-a36e-49a2-8c14-8d25cf4bf405",
+            "id": "8",
+            "name": "Writing Task 2 - Cách viết Introduction cho dạng “Discussion Essay” - ielts-fighter.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://ielts-fighter.com/tin-tuc/Writing-Task-2-Cach-viet-Introduction-cho-dang-Discussion-Essay_mt1483720283.html"
+         }, {
+            "date_added": "13175711008826988",
+            "date_last_used": "0",
+            "guid": "087ec2d3-0ca7-4f2a-8994-dd0785afeada",
+            "id": "9",
+            "name": "Literature derived reference models for the adoption of online shopping - ScienceDirect",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378720604000515"
+         }, {
+            "date_added": "13175800284045679",
+            "date_last_used": "0",
+            "guid": "42e1b6b8-5be9-4ce5-b117-d1a43e144567",
+            "id": "10",
+            "name": "138 linking words thông dụng cho bài thi IELTS - Luyện thi IELTS đảm bảo đầu ra | Luyện thi IELTS cam kết đầu ra | Luyện thi IELTS - Anh Ngữ ZIM",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://zim.vn/138-linking-words-thong-dung-cho-bai-thi-ielts/"
+         }, {
+            "date_added": "13175801639164089",
+            "date_last_used": "0",
+            "guid": "33108857-ac06-4520-8b9e-045cf17d62d6",
+            "id": "11",
+            "name": "IELTS Cue Card Sample 72 - Describe a trip you have taken recently",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.ielts-mentor.com/cue-card-sample/686-ielts-cue-card-sample-72-describe-a-trip-you-have-taken-recently"
+         }, {
+            "date_added": "13176643349122612",
+            "date_last_used": "0",
+            "guid": "7fb3b454-f80f-4c13-8d9c-8c3090582155",
+            "id": "12",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/url?hl=vi&q=https://goo.gl/aymFde&source=gmail&ust=1532256132702000&usg=AFQjCNFmKzHjVuCSGHizoAzDrEPk1WKv_A"
+         }, {
+            "date_added": "13176703504894357",
+            "date_last_used": "0",
+            "guid": "535a5112-434f-4629-a040-0e32941c0c3b",
+            "id": "13",
+            "name": "Hộp thư đến (96) - landang091998.ts@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?hl=vi#inbox"
+         }, {
+            "date_added": "13179428809985741",
+            "date_last_used": "0",
+            "guid": "fc5cbadf-5530-46b8-9d64-795da93546d1",
+            "id": "14",
+            "name": "Liste Verben mit Präpositionen - mein-deutschbuch.de",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mein-deutschbuch.de/verben-mit-praepositionalergaenzungen.html"
+         }, {
+            "date_added": "13181418831989377",
+            "date_last_used": "0",
+            "guid": "aec61229-4502-4bc7-93a2-6779387f59ce",
+            "id": "15",
+            "name": "So schön ist der Osten Deutschlands",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://rp-online.de/leben/reisen/news/so-schoen-ist-der-osten-deutschlands_bid-9428887#6"
+         }, {
+            "date_added": "13181427427149315",
+            "date_last_used": "0",
+            "guid": "6f8db254-a0ef-44ea-b5c2-83ff5f2e76b9",
+            "id": "16",
+            "name": "Ostdeutschland – Wikipedia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://de.wikipedia.org/wiki/Ostdeutschland"
+         }, {
+            "date_added": "13181427432245224",
+            "date_last_used": "0",
+            "guid": "753aa9fa-7933-476c-8cc4-832e65f6f825",
+            "id": "17",
+            "name": "Deutsche Demokratische Republik – Wikipedia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://de.wikipedia.org/wiki/Deutsche_Demokratische_Republik"
+         }, {
+            "date_added": "13181427435756814",
+            "date_last_used": "0",
+            "guid": "adb37f0f-f874-424b-ad09-8726b8a94ffc",
+            "id": "18",
+            "name": "Đông và Tây Đức 25 năm sau ngày thống nhấtNghiên cứu quốc tế",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://nghiencuuquocte.org/2015/11/23/dong-va-tay-duc-25-nam-sau-ngay-thong-nhat/"
+         }, {
+            "date_added": "13181631733009739",
+            "date_last_used": "0",
+            "guid": "cdd0285d-5f00-4d58-9d26-c5b91bceed81",
+            "id": "19",
+            "name": "(7)Ostdeutschland - Reiseführer - Süddeutsche.de",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.sueddeutsche.de/thema/Ostdeutschland"
+         }, {
+            "date_added": "13181631736577565",
+            "date_last_used": "0",
+            "guid": "cd94fddd-6334-41be-b1ce-c66eb7f66529",
+            "id": "20",
+            "name": "SZ-Online: Wie aus mir eine Ostdeutsche wurde",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.sz-online.de/nachrichten/wie-aus-mir-eine-ostdeutsche-wurde-3984572.html"
+         }, {
+            "date_added": "13181656655970883",
+            "date_last_used": "0",
+            "guid": "ed68e8c1-0597-48e3-8986-71aae6834ad6",
+            "id": "21",
+            "name": "Kultur - Make it in Germany",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.make-it-in-germany.com/de/fuer-fachkraefte/deutschland-kennenlernen/deutschland-im-portraet/kultur"
+         }, {
+            "date_added": "13181665653249438",
+            "date_last_used": "0",
+            "guid": "fe55f5ae-9db4-4aa3-b069-7dd1e2e5150f",
+            "id": "22",
+            "name": "Inseln: Rügen - Inseln - Kultur - Planet Wissen",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.planet-wissen.de/kultur/inseln/ruegen/index.html"
+         }, {
+            "date_added": "13181753399998215",
+            "date_last_used": "0",
+            "guid": "dacab109-c29b-4931-be9a-482878d34c81",
+            "id": "23",
+            "name": "Đông Đức: Dresden - Đông Đức - Văn hóa - Kiến thức hành tinh",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.planet-wissen.de/kultur/ostdeutschland/dresden/index.html"
+         }, {
+            "date_added": "13181889953448643",
+            "date_last_used": "0",
+            "guid": "ab4686f7-5f3c-4b71-be38-f83792f6cd6d",
+            "id": "24",
+            "name": "Metropolen: München - Metropolen - Kultur - Planet Wissen",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.planet-wissen.de/kultur/metropolen/muenchen_zwischen_renaissance_und_wolkenkratzern/index.html"
+         }, {
+            "date_added": "13182024484546270",
+            "date_last_used": "0",
+            "guid": "27982bbe-a017-4791-a6ab-dbacb15f43a4",
+            "id": "25",
+            "name": "Übersetzungstheorien: eine Einführung - Radegundis Stolze - Google Sách",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://books.google.com.vn/books?id=rbM2wjld9IkC&pg=PA48&lpg=PA48&dq=verfasserintention+zu+ubersetzungproblem&source=bl&ots=1Q31XgggMy&sig=-kQqSwOEhBo3tvuEAWNORYVk6fE&hl=vi&sa=X&ved=2ahUKEwi0_o69zszdAhUmSI8KHZJQANAQ6AEwA3oECAcQAQ#v=onepage&q=verfasserintention%20zu%20ubersetzungproblem&f=false"
+         }, {
+            "date_added": "13182074585448459",
+            "date_last_used": "0",
+            "guid": "cdd9938a-696c-4afd-9566-6b3efde680ad",
+            "id": "26",
+            "name": "Encyclo - Sociolexikon",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.enzyklo.de/lokal/40027"
+         }, {
+            "date_added": "13182075250422366",
+            "date_last_used": "0",
+            "guid": "5965df84-6d6b-4543-b8a1-8c09ab59d602",
+            "id": "27",
+            "name": "Beispiele & Übungen – Online Writing Lab - SchreibCenter – Technische Universität Darmstadt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.owl.tu-darmstadt.de/owl/owl_module_1/ueberdasschreiben/0024/0024_06.de.jsp"
+         }, {
+            "date_added": "13182075255694336",
+            "date_last_used": "0",
+            "guid": "b81f306b-5d7c-4fd2-8577-2c7bbdc18fa1",
+            "id": "28",
+            "name": "Titel für",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.owl.tu-darmstadt.de/media/owl/module/0024/Uebung_Adressatenbezug.pdf"
+         }, {
+            "date_added": "13182076810956075",
+            "date_last_used": "0",
+            "guid": "624de5ad-5d7e-4d0f-bd10-d679aae4a709",
+            "id": "29",
+            "name": "ab_14_06_schtr.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.klett.de/sixcms/media.php/185/ab_14_06_schtr.pdf"
+         }, {
+            "date_added": "13182108022372985",
+            "date_last_used": "0",
+            "guid": "53d9de72-654d-46fd-b2c8-7b00c0256be2",
+            "id": "30",
+            "name": "Die Tätigkeit des Übersetzers - TL TRANSLATIONES GmbH",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.translationes.net/glossar/die-taetigkeit-des-uebersetzers.html"
+         }, {
+            "date_added": "13182864007266620",
+            "date_last_used": "0",
+            "guid": "6248b260-bc79-4e10-bff3-9d7c8f92e085",
+            "id": "31",
+            "name": "10 trang web hay để tải mẫu Powerpoint miễn phí",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dantri.com.vn/suc-manh-so/10-trang-web-hay-de-tai-mau-powerpoint-mien-phi-2016031111122635.htm"
+         }, {
+            "date_added": "13182878213105352",
+            "date_last_used": "0",
+            "guid": "9ef5fd28-489e-46db-a7fa-b353dbf223fd",
+            "id": "32",
+            "name": "Partizipien als Adjektive - mein-deutschbuch.de",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mein-deutschbuch.de/partizipien-als-adjektive.html"
+         }, {
+            "date_added": "13182878713621487",
+            "date_last_used": "0",
+            "guid": "cc248bb7-4dd9-4c7c-922b-f93e83a1099e",
+            "id": "33",
+            "name": "https://www.grammatiken.de/grammatik-glossar/zahladjektiv.html",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.grammatiken.de/grammatik-glossar/zahladjektiv.html"
+         }, {
+            "date_added": "13182878936389299",
+            "date_last_used": "0",
+            "guid": "fa05e153-0a5a-445a-9356-cb5c82706fec",
+            "id": "34",
+            "name": "Adjektiv unbestimmte Zahladjektive Test - www.mein-lernen.at",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mein-lernen.at/deutsch/wortgrammatik-adjektiv-unbestimmte-zahladjektive-test"
+         }, {
+            "date_added": "13182971719686787",
+            "date_last_used": "0",
+            "guid": "2891c348-32fe-478e-8a1e-d9bcf64b5478",
+            "id": "35",
+            "name": "Arbeitsblatt: Partizipien als Adjektive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.nthuleen.com/teach/grammar/partizipantwort.html"
+         }, {
+            "date_added": "13182974282113308",
+            "date_last_used": "0",
+            "guid": "c286801d-17e8-4c00-ac29-5d8ec5578377",
+            "id": "36",
+            "name": "Partizip als Adjektiv - Germancenter-ST",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.germancenter-st.com/partizip-als-adjektiv-ngu-phap-hoc-tieng-duc"
+         }, {
+            "date_added": "13183144482889043",
+            "date_last_used": "0",
+            "guid": "5c33ffa9-b5df-453f-b860-87544ba61361",
+            "id": "37",
+            "name": "Thẻ ghi nhớ: Redemittel: einen Begriff definieren, Konsequenzen nennen | Quizlet",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://quizlet.com/40124983/redemittel-einen-begriff-definieren-konsequenzen-nennen-flash-cards/"
+         }, {
+            "date_added": "13183358506503084",
+            "date_last_used": "0",
+            "guid": "ef369b8f-1f35-4e2a-8f62-80f8d76d7864",
+            "id": "38",
+            "name": "Adjektive (Grammatik) | Beispiele, Steigerung, Deklination",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://wortwuchs.net/grammatik/adjektive/"
+         }, {
+            "date_added": "13184176708419891",
+            "date_last_used": "0",
+            "guid": "1961d20d-2a7f-4330-ab81-4dc8bf92528a",
+            "id": "39",
+            "name": "Duolingo | Learn German for free",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://en.duolingo.com/skill/de/Basics-1/3"
+         }, {
+            "date_added": "13184502105156900",
+            "date_last_used": "0",
+            "guid": "52daf7e1-4cd0-47fa-ba1d-40697c94f14e",
+            "id": "40",
+            "name": "Verneinung / Negation (nicht/nein/kein) | Grammatik - EasyDeutsch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://easy-deutsch.de/satzbau/verneinung/"
+         }, {
+            "date_added": "13184703028743179",
+            "date_last_used": "0",
+            "guid": "cee57e54-1788-44c0-956b-efb0c5654c3c",
+            "id": "41",
+            "name": "Der Herzschrittmacher wird 60 | Top-Thema – Lektionen | DW | 19.10.2018",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dw.com/de/der-herzschrittmacher-wird-60/l-45940962"
+         }, {
+            "date_added": "13184938021846137",
+            "date_last_used": "0",
+            "guid": "75b6dfd7-9b8f-4e1e-8db8-78dc1723107e",
+            "id": "42",
+            "name": "Short Essay on Self-Reliance - Important India",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.importantindia.com/16856/essay-on-self-reliance/"
+         }, {
+            "date_added": "13185140656332475",
+            "date_last_used": "0",
+            "guid": "a646c752-58f5-4e8b-833f-cc30d92aee55",
+            "id": "43",
+            "name": "561909_Praxisgrammatik_DAF_Downloadmaterial.indd",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pons.de/daten/pdf/Praxis-Grammatik/04_Verben_mit_Dativ-_und_Akkusativobjekt.pdf"
+         }, {
+            "date_added": "13185215869523890",
+            "date_last_used": "0",
+            "guid": "14d77b98-76e7-4a10-9558-7bb4511f6a48",
+            "id": "44",
+            "name": "I.C.H. - einfach verbesserlich! | Clever denken, klüger handeln, gelassener leben",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://locker-leben.de/"
+         }, {
+            "date_added": "13187360692972058",
+            "date_last_used": "0",
+            "guid": "173e098c-3bdb-43b1-a20c-681643e6a2c0",
+            "id": "45",
+            "name": "Der Wolf und der Mensch - Brüder Grimm",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.grimmstories.com/de/grimm_maerchen/der_wolf_und_der_mensch"
+         }, {
+            "date_added": "13187631312090249",
+            "date_last_used": "0",
+            "guid": "cd6fd9e7-c90c-4416-82c1-c5199fb7694c",
+            "id": "46",
+            "name": "Lun n Le Hoai An",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docslide.net/documents/luan-an-le-hoai-an.html"
+         }, {
+            "date_added": "13187987461152445",
+            "date_last_used": "0",
+            "guid": "8ed18f5d-c19d-43b7-bcb9-6a2c8e51039d",
+            "id": "47",
+            "name": "201862_DSDII_Redemittel.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hueber.de/media/36/201862_DSDII_Redemittel.pdf"
+         }, {
+            "date_added": "13189873491438904",
+            "date_last_used": "0",
+            "guid": "5156d168-8fa0-483c-97b3-251acafb71c4",
+            "id": "48",
+            "name": "ICYEVN - DỰ ÁN TÌNH NGUYỆN ĐẶC BIỆT CÓ HỖ TRỢ CHI PHÍ TẠI ĐỨC 2019",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://icye.vn/du-an/du-an-tinh-nguyen-dac-biet-co-ho-tro-chi-phi-tai-duc-2019-2448"
+         }, {
+            "date_added": "13190492775320224",
+            "date_last_used": "0",
+            "guid": "ded94470-7833-49a3-aa14-19c2dbd3b422",
+            "id": "49",
+            "name": "2",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ub-madoc.bib.uni-mannheim.de/1143/1/Negation_1.Dezember2005_mit_Verzeichnis_PDF4.pdf"
+         }, {
+            "date_added": "13218565425794040",
+            "date_last_used": "0",
+            "guid": "49ac6703-d9b0-44fc-9fe4-2ae428d582d1",
+            "id": "50",
+            "name": "CHƯƠNG TRÌNH TÌNH NGUYỆN 1 NĂM TẠI ĐỨC - EUROLINK",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://eurolinkedu.com/chuong-trinh-tinh-nguyen-1-nam-tai-duc/"
+         }, {
+            "date_added": "13225739497689744",
+            "date_last_used": "0",
+            "guid": "838d0876-cc9a-4fa2-b272-af5cc9acf185",
+            "id": "51",
+            "name": "Trier VHS: B2.2 Deutsch als Fremdsprache",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vhs-trier.de/erweiterte-kurssuche/nr/201-40467/bereich/details/blid/258275/br/forward/?blkeep=true&reiter=zeit"
+         }, {
+            "date_added": "13230070546315002",
+            "date_last_used": "0",
+            "guid": "9f0babca-1305-465c-ad7f-0e191595142d",
+            "id": "52",
+            "name": "Deutsch - Vietnamesisch übersetzung | TRANSLATOR.EU",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.translator.eu/deutsch/vietnamesisch/ubersetzung/"
+         }, {
+            "date_added": "13235685378616196",
+            "date_last_used": "0",
+            "guid": "6c3210ee-9f86-4503-9e73-baaaeb02ea3a",
+            "id": "53",
+            "name": "Deutschkurs B2 | TASI Trier",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tasi-trier.de/b2-2020/"
+         }, {
+            "date_added": "13237206567320786",
+            "date_last_used": "0",
+            "guid": "249938f0-1e07-4a03-b706-276baf74c46c",
+            "id": "54",
+            "name": "Vor- und Nachteile der Urlaub in den Bergen",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://doctorde.netlify.app/gesunde-ferien21/3294"
+         }, {
+            "date_added": "13237287906430269",
+            "date_last_used": "0",
+            "guid": "cc9528a8-dd4c-478c-b403-a8ed95a6098f",
+            "id": "55",
+            "name": "Studio d B2-1 Kurs- Und Uebungsbuch Teilband 1 Losungen",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pdfslide.net/documents/studio-d-b2-1-kurs-und-uebungsbuch-teilband-1-losungen.html"
+         }, {
+            "date_added": "13238799128647428",
+            "date_last_used": "0",
+            "guid": "bedb8c45-98c1-468c-acbd-f4a6e271a776",
+            "id": "56",
+            "name": "Wichtige Redemittel für die deutschen Briefe - Schreiben Hamburg",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://schreiben-hamburg.de/wichtige-redemittel-fur-die-deutschen-briefe/"
+         }, {
+            "date_added": "13239451887401570",
+            "date_last_used": "0",
+            "guid": "6c8fc796-371e-4b65-a5bf-6124c6db40f9",
+            "id": "57",
+            "name": "Beschwerdebrief B2 Beispiel PDF und Muster [Telc]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dschule.de/beschwerdebrief-b2/"
+         }, {
+            "date_added": "13239644431421979",
+            "date_last_used": "0",
+            "guid": "2cca9c70-9dfc-4cda-b708-b78dd3bc860b",
+            "id": "58",
+            "name": "Übersetzen & Dolmetschen studieren - 41 Studiengänge im Überblick",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.studycheck.de/studium/sprach-kulturwissenschaften/uebersetzen-dolmetschen#:~:text=Wenn%20Du%20%C3%9Cbersetzen%20und%20Dolmetschen%20studieren%20m%C3%B6chtest%2C%20sind,in%20Deiner%20Muttersprache%20%C3%BCber%20exzellente%20Vokabular-%20und%20"
+         }, {
+            "date_added": "13245141847995843",
+            "date_last_used": "0",
+            "guid": "7dbbe919-b28a-4356-ada2-95353977fc33",
+            "id": "59",
+            "name": "Steps-Hotel (Deutschland Berlin) - Booking.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.booking.com/hotel/de/steps.de.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYAQe4ARfIAQzYAQHoAQH4AQuIAgGoAgO4AsCAofsFwAIB0gIkOTVhNTc5MzAtMzNlMi00OTMxLWI0MzgtMDA1YTk5ZDhkZjUw2AIG4AIB;sid=3a21a57128e3a7f7f845ad9e04f0874f;all_sr_blocks=6277323_106871594_0_2_0;checkin=2020-10-01;checkout=2020-10-04;dest_id=-1746443;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=19;highlighted_blocks=6277323_106871594_0_2_0;hpos=19;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=price;sr_pri_blocks=6277323_106871594_0_2_0__11549;srepoch=1600667811;srpvid=10ad29d1b5310018;type=total;ucfs=1&#hotelTmpl"
+         }, {
+            "date_added": "13245142751960827",
+            "date_last_used": "0",
+            "guid": "97d36a5a-6ff2-4eb4-8089-9fd78dfa077d",
+            "id": "60",
+            "name": "Deutsche Bahn: bahn.de - Verbindungen - Ihre Auskunft",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://reiseauskunft.bahn.de/bin/query.exe/dn?ld=3755&protocol=https:&seqnr=6&ident=5f.0894384.1600668781&rt=1&changeReturnJourney=yes#hfsseq7|5f.0894384.1600668781"
+         }, {
+            "date_added": "13245142911945876",
+            "date_last_used": "0",
+            "guid": "3bef7c94-6300-4f4f-91eb-ad3c9d59ff13",
+            "id": "61",
+            "name": "FlixBus → Günstig mit dem Fernbus reisen",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.flixbus.de/"
+         }, {
+            "date_added": "13245766847664601",
+            "date_last_used": "0",
+            "guid": "f1f8820d-a891-4436-a225-505f8a4be7eb",
+            "id": "62",
+            "name": "Online Tickets - Rechnungsinformationen - TV Turm",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tv-turm.de/online-tickets-rechnungsinformationen/"
+         }, {
+            "date_added": "13246374470320888",
+            "date_last_used": "0",
+            "guid": "9aa1b276-bb50-4810-88f5-c2f6f44fa6b0",
+            "id": "63",
+            "name": "Vietnam Airlines - Lựa chọn chuyến bay",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fly.vietnamairlines.com/dx/VNDX/#/flight-selection?journeyType=one-way&locale=vi-VI&origin=FRA&destination=HAN&ADT=1&CHD=0&INF=0&date=01-11-2021&promoCode=&class=Economy&pointOfSale=VN&awardBooking=false&searchType=BRANDED&direction=0&execution=e1s1"
+         }, {
+            "date_added": "13248356441570739",
+            "date_last_used": "0",
+            "guid": "b8d8018f-4f22-4dcb-a810-16804ba0ac91",
+            "id": "64",
+            "name": "Bitte um Informationen Brief B2 Beispiel + Redemittel",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dschule.de/bitte-um-informationen-brief-b2-beispiel/"
+         }, {
+            "date_added": "13254249172818985",
+            "date_last_used": "0",
+            "guid": "7fcae573-688d-414f-bc6b-04490f1d8b97",
+            "id": "65",
+            "name": "Trước bờ vực vỡ nợ, Hy Lạp sẽ rời khỏi EU và Eurozone?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://infonet.vietnamnet.vn/the-gioi/truoc-bo-vuc-vo-no-hy-lap-se-roi-khoi-eu-va-eurozone-158253.html"
+         }, {
+            "date_added": "13259344509557392",
+            "date_last_used": "0",
+            "guid": "477f062d-2ae1-456f-a1ac-c001ee0b2d9e",
+            "id": "66",
+            "name": "Zusammenarbeit zwischen Vietnam und Deutschland in Ausbildung und Berufsbildung",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vovworld.vn/de-DE/vietnam-und-partner/zusammenarbeit-zwischen-vietnam-und-deutschland-in-ausbildung-und-berufsbildung-944724.vov"
+         }, {
+            "date_added": "13259386817440892",
+            "date_last_used": "0",
+            "guid": "f7f88cc4-0bbc-4705-854f-62cf4721ffa7",
+            "id": "67",
+            "name": "Liste von Helvetismen - Unionpedia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://de.unionpedia.org/Liste_von_Helvetismen"
+         }, {
+            "children": [ {
+               "date_added": "13259473424968418",
+               "date_last_used": "0",
+               "guid": "602adced-9492-4ec1-9050-cecf31fbefa5",
+               "id": "69",
+               "name": "(1) Facebook",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.facebook.com/"
+            }, {
+               "date_added": "13259473424969031",
+               "date_last_used": "0",
+               "guid": "ce1af927-99c2-4cfe-b220-5f85c2fc9234",
+               "id": "70",
+               "name": "(2) Helvetismen 🇨🇭 | Schweizerdeutsche Begriffe erklärt - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Dw1FUIF8e4w&list=WL&index=36"
+            }, {
+               "date_added": "13259473424978392",
+               "date_last_used": "0",
+               "guid": "282fbabc-23fb-4bed-a075-d6c06351d335",
+               "id": "71",
+               "name": "Bing",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "chrome://newtab/"
+            }, {
+               "date_added": "13272043121646176",
+               "date_last_used": "0",
+               "guid": "b3bf16a6-beba-45ca-be4d-769cbc38a4e9",
+               "id": "72",
+               "name": "Beschreibung von Diagrammen, Tabellen und Grafiken zur Prüfungsvorbereitung auf das Zertifikat Deutsch | Sprachzentrum Online - Cursos de alemán online",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://sprachzentrum.com.ar/beschreibung-von-diagrammen-tabellen-und-grafiken-zur-prufungsvorbereitung-auf-das-zertifikat"
+            }, {
+               "date_added": "13273045399560425",
+               "date_last_used": "0",
+               "guid": "8c2eb3b9-9d8f-403d-b94e-2df542f1228d",
+               "id": "73",
+               "name": "TestDaF-Teilnehmerportal",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://anmelden.testdaf.de/gast/testdaf/teilnehmer/receiveTransactionResult.do?do=showFailed&rc=100.380.401"
+            }, {
+               "date_added": "13277924012149476",
+               "date_last_used": "0",
+               "guid": "56f115b7-38ee-46df-b2ec-0af86b8516e2",
+               "id": "74",
+               "name": "Panel - Genial.ly",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://app.genial.ly/templates/presentation"
+            }, {
+               "date_added": "13278929546002458",
+               "date_last_used": "0",
+               "guid": "8e6f1453-c5f9-48a9-8422-49ad586179f6",
+               "id": "75",
+               "name": "Rytr - Best AI Writer, Content Generator & Writing Assistant",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://rytr.me/"
+            }, {
+               "date_added": "13279109076480783",
+               "date_last_used": "0",
+               "guid": "6a0c69c5-593c-480c-a8ef-6abd6e1fa553",
+               "id": "76",
+               "name": "Audio-Dateien zum Hören und Sprechen A1 - Sanes Blog",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://sabine.knienieder.com/audio-dateien-zu-hoeren-und-sprechen-a1/"
+            }, {
+               "date_added": "13281107151339858",
+               "date_last_used": "0",
+               "guid": "6f9c104f-884c-416f-bea4-0f6224c07739",
+               "id": "77",
+               "name": "12. S1121 (Phạm Huyền + Đặng Lan) - OneDrive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://onedrive.live.com/?authkey=%21ACJlepbBFi0Zv0U&id=25384125EA2C3EF2%2183633&cid=25384125EA2C3EF2"
+            }, {
+               "date_added": "13281107155689052",
+               "date_last_used": "0",
+               "guid": "e8d2d558-0bdb-426d-8b21-b10c4093c07b",
+               "id": "78",
+               "name": "13. S21121 (Thanh Hiền + Đặng Lan) - OneDrive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://onedrive.live.com/?authkey=%21ABlYbmmoUAoNtg4&id=25384125EA2C3EF2%2183742&cid=25384125EA2C3EF2"
+            } ],
+            "date_added": "13282716644877296",
+            "date_last_used": "0",
+            "date_modified": "13282716644877296",
+            "guid": "d0c596ea-7369-4292-832c-957126a4fb9a",
+            "id": "68",
+            "name": "n6tmy,o=ơp-",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13259512068292456",
+            "date_last_used": "0",
+            "guid": "788d6e2a-16d5-48e2-89b8-65b49701fc56",
+            "id": "79",
+            "name": "Mundart und Standardsprache in der deutschen Schweiz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dwc.knaw.nl/DL/publications/PU00010389.pdf"
+         }, {
+            "date_added": "13259516104091253",
+            "date_last_used": "0",
+            "guid": "b05bdd4b-2f3a-458e-ac56-c0ea4543a8ed",
+            "id": "80",
+            "name": "Standardsprache und Dialekt – Geoinformation HSR",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://giswiki.hsr.ch/Standardsprache_und_Dialekt"
+         }, {
+            "date_added": "13259738674881331",
+            "date_last_used": "0",
+            "guid": "2885b9aa-60ce-45cf-b66d-19bd6faba3bc",
+            "id": "81",
+            "name": "Typisch Schweizerdeutsch: Die Sprache der Schweiz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.herz-kiste.ch/typisch-schweizerdeutsch-die-sprache-der-schweiz/"
+         }, {
+            "date_added": "13260077573469310",
+            "date_last_used": "0",
+            "guid": "73eff537-5d5f-4d8f-8c95-44433535dce7",
+            "id": "82",
+            "name": "Deutschland und Vietnam: bilaterale Beziehungen - Auswärtiges Amt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/vietnam-node/bilateral/217280"
+         }, {
+            "date_added": "13260077981784054",
+            "date_last_used": "0",
+            "guid": "9ecd0170-1f7f-42e5-ae1a-7452b726e967",
+            "id": "83",
+            "name": "Wirtschaftsbeziehungen zwischen Vietnam und Deutschland - Auswärtiges Amt",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vietnam.diplo.de/vn-de/themen/wirtschaft/-/1503008#:~:text=Deutschland%20ist%20Vietnams%20gr%C3%B6%C3%9Fter%20Handelspartner%20in%20der%20EU,Umweltschutz%20stetig.%20Das%20Inkrafttreten%20des%20EU-Vietnam-Freihandelsabkommens%20am%201."
+         }, {
+            "date_added": "13260280496709577",
+            "date_last_used": "0",
+            "guid": "2417895b-1af4-4f78-84b3-419b1d115f1c",
+            "id": "84",
+            "name": "Taylor Swift und Beyoncé schreiben Grammy-Geschichte | Aktuell Welt | DW | 15.03.2021",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dw.com/de/taylor-swift-und-beyonc%C3%A9-schreiben-grammy-geschichte/a-56872554"
+         }, {
+            "date_added": "13260297423573927",
+            "date_last_used": "0",
+            "guid": "5b49cfe6-7fd7-4fe4-9ce9-5fa603c6a234",
+            "id": "85",
+            "name": "Vietnam-Germany.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.vietnambotschaft.org/de/pdf/Vietnam-Germany.pdf"
+         }, {
+            "date_added": "13262669176461211",
+            "date_last_used": "0",
+            "guid": "89918de4-b43d-4ca1-99dc-36a83a3e981f",
+            "id": "86",
+            "name": "Lịch thi Chuẩn đầu ra ngoại ngữ năm học 2020-2021 dành cho Sinh viên và Học viên Sau Đại học trong Đại học Quốc gia Hà Nội – VSTEP – Trung tâm Khảo thí – ULIS-VNU,Hanoi",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://vstep.vn/lich-thi-chuan-dau-ra-nn-nam-hoc-2020-2021-danh-cho-sinh-vien-va-hoc-vien-sau-dai-hoc/"
+         }, {
+            "date_added": "13263367896296460",
+            "date_last_used": "0",
+            "guid": "7eeddda4-3731-49b7-b40a-6f722103980c",
+            "id": "87",
+            "name": "Triển khai thủ tục hành chính theo cơ chế một cửa cho học sinh sinh viên tại Trường Đại học Ngoại ngữ – Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://ulis.vnu.edu.vn/trien-khai-thu-tuc-hanh-chinh-theo-co-che-mot-cua-cho-hoc-sinh-sinh-vien-tai-truong-dai-hoc-ngoai-ngu/"
+         }, {
+            "date_added": "13263368858098192",
+            "date_last_used": "0",
+            "guid": "1223d2f7-06b6-42e4-92b5-b2a92b6bbc15",
+            "id": "88",
+            "name": "Cổng dịch vụ hỗ trợ Sinh viên/Học viên/NCS - Trường Đại học Ngoại ngữ - ĐHQGHN - Xử lý yêu cầu",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://uliser.ulis.vnu.edu.vn/#3"
+         }, {
+            "date_added": "13267262283602861",
+            "date_last_used": "0",
+            "guid": "9f6f0fae-3de6-4c04-a468-a111b457b1e2",
+            "id": "89",
+            "name": "Đặng thị lan - Áp phích",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAEgZITyMrs/O9dSLktFfgEx7eLKMDB9Ww/edit?category=tACFat6uXco"
+         }, {
+            "date_added": "13268584512148981",
+            "date_last_used": "0",
+            "guid": "e4922a54-4c96-4d5f-92f4-d39338b27d57",
+            "id": "90",
+            "name": "Varianten von wenn: selbst wenn, außer wenn, es sei denn, sonst, je nachdem - Deutsche Grammatik 2.0",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://deutschegrammatik20.de/komplexer-satz/wenn-varianten-selbst-wenn-ausser-wenn-es-sei-denn-sonst-andernfalls/"
+         }, {
+            "date_added": "13268634214315227",
+            "date_last_used": "0",
+            "guid": "27c62d2c-8903-42bb-a0fb-9d7f7557f14b",
+            "id": "91",
+            "name": "Klett Sprachen - Lehrwerke, Lektüren und mehr für Ihren Unterricht | Media Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.klett-sprachen.de/unlock_downloads/9614/Aspekte_5Fneu_5FC1_5F_2D_5FAudiodateien_5FArbeitsbuch_5FKapitel_5F1_2D4/zip"
+         }, {
+            "date_added": "13269324826088191",
+            "date_last_used": "0",
+            "guid": "5bc662e0-615d-4284-9994-9a88db27888f",
+            "id": "92",
+            "name": "abstehen – Schreibung, Definition, Bedeutung, Etymologie, Beispiele | DWDS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dwds.de/wb/abstehen"
+         }, {
+            "date_added": "13270475397496570",
+            "date_last_used": "0",
+            "guid": "f4d2f8f3-ebc5-43bb-8c6d-89aa9548b2ae",
+            "id": "93",
+            "name": "How to Accept a Job Offer | Co-operative Education & Career Services",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.recruitguelph.ca/cecs/students-alumni/managing-offers/how-accept-job-offer"
+         }, {
+            "date_added": "13270814178626612",
+            "date_last_used": "0",
+            "guid": "e2f7c65a-2411-4e56-a803-1a5b92e70dad",
+            "id": "94",
+            "name": "German (Ms Cara leads) - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1OJe9-DEVgl6w2PAe_yUUCvsb-Fsjfomy"
+         }, {
+            "date_added": "13270880351241309",
+            "date_last_used": "0",
+            "guid": "29810ded-d8a8-4b40-af3d-67d9496bf858",
+            "id": "95",
+            "name": "German Grammar pdf for A1 A2 B1 B2 C1 C2 - Deutsche Grammatik pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://german-blog.com/a1-a2-b1-b2-c1-c2-pdf-german-grammar/"
+         }, {
+            "date_added": "13271053082615274",
+            "date_last_used": "0",
+            "guid": "734aa061-008d-4cd4-ad2e-8db08fe7146f",
+            "id": "96",
+            "name": "Texte | Deutsch lernen durch Hören",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.einfachdeutschlernen.com/schrifliche-materialien"
+         }, {
+            "date_added": "13271055116248185",
+            "date_last_used": "0",
+            "guid": "0ac3c08a-9d8e-4e35-8e24-3b8e72860c47",
+            "id": "97",
+            "name": "[Đặng Thị Lan] - [German] - [23] - [F] - Google Tài liệu",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1EmrvLh3nPeUlzmsyXbgMp9KcB-mZu7j9_HB5oRawN7s/edit#"
+         }, {
+            "date_added": "13271678330005206",
+            "date_last_used": "0",
+            "guid": "f855e42b-e2cf-4fa0-b04f-d3bf3dd244bd",
+            "id": "98",
+            "name": "Đăng ký học ngành 1 - Học kỳ 1 năm học 2021-2022 - [4]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://dangkyhoc.vnu.edu.vn/dang-ky-mon-hoc-nganh-1"
+         }, {
+            "date_added": "13271836285070002",
+            "date_last_used": "0",
+            "guid": "a12f9a71-1d75-47dc-a09c-b5b78485786f",
+            "id": "99",
+            "name": "Das Wasser der Welt – eine geteilte Ressource | Umwelt im Unterricht: Materialien und Service für Lehrkräfte – BMUB-Bildungsservice | Umwelt im Unterricht",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.umwelt-im-unterricht.de/hintergrund/das-wasser-der-welt-eine-geteilte-ressource/"
+         }, {
+            "date_added": "13271922011092363",
+            "date_last_used": "0",
+            "guid": "87fb9a31-2795-43c7-95bf-90cf012fed37",
+            "id": "100",
+            "name": "Verrückt, unglaublich & lustig: Mopeds in Vietnam und Kambodscha - Anders reisen",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.andersreisen.net/verrueckt-unglaublich-lustig-mopeds-vietnam-kambodscha/"
+         }, {
+            "date_added": "13271925665439245",
+            "date_last_used": "0",
+            "guid": "c53180d0-1bf9-4783-8308-3a24eceb9761",
+            "id": "101",
+            "name": "Freizeitmonitor: Das machen die Deutschen in ihrer Freizeit am liebsten - Panorama - Stuttgarter Zeitung",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.stuttgarter-zeitung.de/inhalt.freizeitmonitor-das-machen-die-deutschen-in-ihrer-freizeit-am-liebsten.e8af9662-0446-4146-88fc-8bdca230e2ad.html"
+         }, {
+            "date_added": "13303380512811188",
+            "date_last_used": "0",
+            "guid": "432f8623-b16d-4a28-af2f-fe6a9eded47f",
+            "id": "102",
+            "name": "Macht Geld glücklich? Überraschende Erkenntnisse und Einsichten",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://zeitzuleben.de/macht-geld-gluecklich/"
+         } ],
+         "date_added": "13324060378229485",
+         "date_last_used": "0",
+         "date_modified": "13303380512811188",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13324060378229491",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13324060378229493",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNywXA+HAQAAEgAgASoYR2JOMkZNVjg1aHdUdFpHVThhZFZwZz09oAYMEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGU5ZTNkNWQxLTQ0ODgtNTM2Yy1iYjVhLTFiOWNkNjdkODM4MRgAIAAoADCP68bZlC84mvuPwOQvQJr7j8DkL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASsAEIZhKrAQocOGpPTzdCb0ZCWFg3Tzh3TzNYYmc2U040M1pvPRIkNDMyZjg2MjMtYjE2ZC00YTI4LWFmMmYtZmU2YTllZGVkNDdmGAAgACgAMK7WgOnhMDjb3IDp4TBA29yA6eEwShx6N2RiWnFqekYrUDVyWFZucGtRZDBKcWNsNW89WiciJf////8AAAAK/W5BY0tGN0QyYklsZ3pWdUNUK2ZzekNNQkJKND1lNjDdGhKoAQhIEqMBChwvZ3pPMmszbGY1d1cxWnl0OFJaeWtKb3RrYlE9EiRiM2JmMTZhNi1iZWJhLTQ1Y2EtYmU0ZC03NjljYmMzOGE0ZTkYACAAKAAw/L6U99YvOIvOkcDkL0CLzpHA5C9KHGJielVyZUpVcTZvdGJ3Q3VRQzlXU2JTaWpoQT1aHyId6VBTSEVIcmNrZVRXVGtnOWZ3bHNYMlR2WStaaz1l8XS5jxKwAQhjEqsBChxtOHNDNy9rQ2xzdHExdzdIUHpJczVsKzRjY3M9EiRhMTJmOWE3MS0xZDc1LTQ3ZGMtYTA5Yy1iNWI3ODQ4NTc4NmYYACAAKAAwrNaA6eEwOLDMkcDkL0CwzJHA5C9KHFJaVlZLUDdmQ055YmJreVc5SGhKN09IR1FnRT1aJyIl/////wAAAAruTWRKMzlmb0VFekh6NTFSWGtLcktBUTRtUk9FPWWQd/IKErABCGESqwEKHGQxeDM0WWhTRC9sTnlDY1RqZk4xSUMzOGlYYz0SJDBhYzNjMDhhLTlkOGUtNGUzNS04ZTI0LTNiOGU3Mjg2MGM0NxgAIAAoADCp1oDp4TA4k7uRwOQvQJO7kcDkL0ocK2J1WU1ML2c4ZERIeTdyUEwyM3ROb2YrUndNPVonIiX/////AAAACrpwZ0gyK3c2SStQMjBHMHExY0VuSjE1bHdlSTQ9ZdVHTTQSsAEIWRKrAQocNTFuWEt4N0RBa1N4SzlOaUcrYVdCaTc2TktzPRIkOWY2ZjBmYWUtM2RlNi00YzA0LWE0NjgtYTExMWI0NTdiMWUyGAAgACgAMLyygOnhMDiyoZHA5C9AsqGRwOQvShxxTUFmMXJsRUNKVzNpMmlYUzZpL2ZCQzJuVDg9WiciJf////8AAAAJtUoxOHVTYUNtVG1wNU0zRE9pdWJrZTYzV3k0VT1ldCh17RKwAQhfEqsBChxMZ29xVDd2V1A5Z0xvbG1DdnEwVVZkbWtrams9EiQyOTgxMGRlZC1kOGE4LTRiNDAtYWYzZC02N2Q5NDk2YmY4NTgYACAAKAAwjsKA6eEwOP7ykMDkL0D+8pDA5C9KHGl0c3hYcGdYM2ExWitvazdJa3dCeEQvVTUyZz1aJyIl/////wAAAAn+d2tsZmErQ0FQWEpSbnM0TG9NNlRUNzRXZGZJPWXTH5G0ErABCF4SqwEKHEdLNWRLcTVFSyttTzNtbHlGNHRub2pXZ2VJST0SJGUyZjdjNjVhLTI0MTEtNGU1Ni1hODAzLTFhNWI5MmU3MGRhZBgAIAAoADCq1oDp4TA4jNORwOQvQIzTkcDkL0occWtrL2drenVUWEZnZUtkMFRpTFgvZkpzd2xjPVonIiX/////AAAACf1FS3VoZUdRamVqaXhaNTdaRGtTV0pGVlpxMGM9ZboKLFESqwEIIRKmAQocNU1KUFIrMDhmSkVHSjVHL2JBQ2NJakdnZ0xrPRIkY2MyNDhiYjctNGRkOS00YzdjLTkyMmItZjkzZTgzYTEwOTllGAAgACgAMIjCgOnhMDiGi5HA5C9AhouRwOQvShwwNlh2YzEzZVV5RVJZQ29jK0dPVlIxQStSWVE9WiIiIP////VsMmdLZzNZUFZVckhneFNSTWJnNFBBNHFXYWM9ZZ9LjAQSsAEIMBKrAQocS1IyM3BEK3hYakpRYlJDeTVORUNPTGp3TVVZPRIkNTE1NmQxNjgtOGZhMC00ODNjLTk3YjMtMjUxYWNhZmI3MWM0GAAgACgAMKjWgOnhMDjylpHA5C9A8paRwOQvShxvdTZsZXZ6NkxQZjVTSWtPMnJQc2pWc0drenM9WiciJf////8AAAAF1XpjMG9Rc0puMGdqUDVjYTBkeHdGbitRdWFCWT1lzCuXKBKwAQhdEqsBChxJZlB0RzJEUWVCNUIzaG8zQUNFN0lBNXNxSlE9EiRmNGQyZjhmMy1lYmM1LTQzYmItOGM2ZC04OWFhOTU0OGIyYWUYACAAKAAwp9aA6eEwOKWQkcDkL0ClkJHA5C9KHExhSFNwTHE4a042a21GVk9iQU9OMGR5c2djbz1aJyIl/////wAAAAn7bE1WbkhoZHBCaFQ2Z3V4cGRlMk5WSU8vSkJBPWUaA5i1ErABCFwSqwEKHHJxbS8yZ1FCYUdJbTgzb200N2tuaytWRXdicz0SJDViYzY2MmUwLTYxNWQtNDI4NC05OTk0LTlhODhkYjI3ODg4ZhgAIAAoADCl1oDp4TA4g/yQwOQvQIP8kMDkL0occklxdmVNcVViblZaTWFzaHpDNkZHZnFDODYwPVonIiX/////AAAACfZNaU1UMDVSRExwMW1KampVd0tCRXc4ckpvNlU9ZVSrzgESsAEIZBKrAQocQ0xTSS93RkQ4dzZ4Z0dTb2xIajFqRFlEV3lrPRIkODdmYjlhMzEtMjc5NS00M2M3LTk1YmYtOTBjZjAxMmZlZDM3GAAgACgAMKPWgOnhMDiAx5HA5C9AgMeRwOQvShxtWlJ4K0NaRjVkdE4rZDZMZkMwODkrUGY5WE09WiciJf////8AAAAK909jRmlVaWFxODZ3dEJuZm5lOU1JU1JMMnhoST1lsaEqjRKwAQhVEqsBChxRNzJORDlwM0ViZkdsZ0tJYUlwcUhicWFJYjA9EiQ1YjQ5Y2ZlNi03ZmQ3LTRmZTQtOWNlOS01ZmE2MDNjNmEyMzQYACAAKAAw+LWU99YvOM2YkcDkL0DNmJHA5C9KHEFCRWdoNk1ubWtweEI1WDhHcW9kVmV6UmdCbz1aJyIl/////wAAAAj7ZGt2L2tROW1nQk5iVFhFVE0wSnZPT3Q3QXRrPWUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDIzY2I2NGFiLWE0MGMtNTdmNC1hYWE3LTdiZjc3YWQzMzJlOBgAIAAoADCP68bZlC843PePwOQvQNz3j8DkL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASsAEIVBKrAQocTmFuWTY5bFdDVktqYzNTbDdnWnQrWWJDSGJVPRIkMjQxNzg5NWItMWFmNC00Zjc4LTg0YjMtNDE5YjFkMTE1ZjFjGAAgACgAMKTWgOnhMDiAkpHA5C9AgJKRwOQvShxlQk5nMkFUTFM1Mkd4THlScytSNTVMOXpIUVU9WiciJf////8AAAAI90ZuUHptckxuZXY0K0R2QXJTMWJ6THB0RHp6ST1lYEP0NRKwAQgtEqsBChxleW9uNVE5MldLTStqci9uSXgremdMNE1sNzQ9EiQxNzNlMDk4Yy0zYmRiLTQzYjEtYTIwYy02ODE2NDNlNmEyYzAYACAAKAAwodaA6eEwOO6ukMDkL0DurpDA5C9KHDZTaHJVMzkvZnMrTW0rMVVUMnU4NkRBeTF6bz1aJyIl/////wAAAAT+b29ZSm9NTmQ1UTBsUEVVWGQyeTB3U3dTTndNPWV/NCMREqgBCE4SowEKHDlYdUdsSDI1NlZjWFg0Qk9tcWNLT2EwcUVndz0SJGU4ZDJkNTU4LTBiZGItNDI2ZC04YjIxLWIxMGM0MDkzYzA3YhgAIAAoADD8vpT31i841tSRwOQvQNbUkcDkL0oceUFyTC9zeE13cThKMFJzZ3FzTnVVVGFxVjBJPVofIh3/UzEySHMwRU5xczhFU3duUjB0dU0yR3pLcFV3PWWbW6UnEq8BCGASqgEKHER4WVRWQ0REdkRDSy9lY3Zha25zV3JhYXRFRT0SJDczNGFhMDYxLTAwOGQtNGNkNC1hZDJlLThkYjA4ZmU3MTQ2ZhgAIAAoADCi1oDp4TA41pqRwOQvQNaakcDkL0ocdXN6cTBtU0tPZVdweEh1ekhtd0JRRnVYTFBzPVomIiT/////AAAACnRBYW1RS1g4NlpJeVVOZS9CZFF2OXFJanpURT1lId81qBKoAQhKEqMBChwycCtlaTZ2UW9rVTB4OWEzRUdMUDhVL3RJNE09EiQ1NmYxMTViNy0zOGVlLTQ2ZGYtYjJlYy0wYWY4NmI4NTE2ZTIYACAAKAAw/L6U99YvOKPAkcDkL0CjwJHA5C9KHHdLSTJidG5sVUlLWGNQWUovaENtWXlOY0g4WT1aHyId+lRCWG9GN09ydE0ycDA3TSt6ODVaeGlab1lSST1lw3/NHxKoAQhJEqMBChxDRDhDeTFWWmtnRExSNCtRc3Q1dVBkR0ZWdTg9EiQ4YzJlYjNiOS05ZDhmLTQwM2QtYjk0ZS0yZGY1NDJmMTIyOGQYACAAKAAw/L6U99YvOPrIkcDkL0D6yJHA5C9KHGtnNXpXTVpxRWY3SE5yOUR6ZGxUMW1yWnlyWT1aHyId9DkrUDY0N1JIdmMydStxQkV3K0tpU2hBdDhBVT1lngsgqhKoAQhMEqMBChw0bG83SitZbWhybE5sVE10dG1ZRUFrN05DeXc9EiQ2YTBjNjljNS01OTNjLTQ4MGMtYThlZi02YWJkNmUxZmE1NTMYACAAKAAw/L6U99YvOMnDkcDkL0DJw5HA5C9KHGQ2R1ZXT3BkVmpNQkxrWlk0eVpBWXZNenRiVT1aHyId/nV4WTR5ZytFZVc0MmlmcHhBNXQxSmgxRXdUVT1lGnakZxKwAQhlEqsBChxNNjUzaWJUNUlGelRJRDJCOEpGQnFDcC9pUFU9EiRjNTMxODBkMC0xYmY5LTQ3ODMtODMwOC0zYTI0ZWNlYjk3NjEYACAAKAAwn9aA6eEwOJuJkcDkL0CbiZHA5C9KHGR5cVNFVW0zYkh3Uk5NSmRvWHY0cGFjNWRiYz1aJyIl/////wAAAAr7Q3hKM2VpYTJuaTJpbE5RQjhTR3N6NXprV0U0PWXkxryzEqsBCCMSpgEKHDMwMUFRQXU0aUR0MDdaS1dKZytCVWxrdjFCVT0SJDI4OTFjMzQ4LTMyZmUtNDc4ZS04YTFlLWQ5YmNmNjRiNTQ3OBgAIAAoADCJwoDp4TA4ppWRwOQvQKaVkcDkL0ocYnpxWDJURTR0c3VjYjFIeEx5VFBPM0VZQ3Q0PVoiIiD////9RjV6OE9VdE9VY3g5UUVzaHRCeUVseVhKNXRjPWXKgcD8ErABCE8SqwEKHC9KTjczSEEyZlU1NEcyUUY0bWZnS29hVTdvST0SJDc4OGQ2ZTJhLTE2ZDUtNDhlMi04OWI4LTY1YjQ5NzAxZmM1NhgAIAAoADD4tZT31i84oZyRwOQvQKGckcDkL0occ01HTGxseWx2a3FRNDNUTHBEd1dpeHdrVVlnPVonIiX/////AAAAB/5rRnVHVWppVmg2SnBjRk9zVC84S2hOd04yMUU9ZQAAAAASqAEIRxKjAQoccmU1dFQ3VEpvaFhUbXJNQmJydTR2QXJaSXV3PRIkMjgyZmJhYmMtMjNmYi00YmVkLWEwNzUtZDZjMDYzNTFkMzM1GAAgACgAMPy+lPfWLzj9vJHA5C9A/byRwOQvShxnOU5HdkYzK1RDdGs4MXQ5TVdad2YvRGlOV2s9Wh8iHdJyU3ZxS3VFdFY5SjZ2LzNVSVBraDVWR01hS009ZQAAAAASsAEIRBKrAQoca0FpWlB0TncyQTVpT3R2MVpzUEdVNW9hTzVvPRIkZDBjNTk2ZWEtNzM2OS00MjkyLTgzMmMtOTU3MTI2YTRmYjlhGAAgACgAMPi1lPfWLzj+p5HA5C9A/qeRwOQvShx3OWY5dzlyY3V2SU5FaDc0dDZ0a2VjY0VmQTQ9WiciJf////8AAAAH/UFROHVvVmRNWVAxRHNkcnZ4OG5DcEVrd1E2Zz1lAAAAABKwAQhDEqsBChwvdlVVZFA3OVlWNU9lQ2o2aGZsWGdvNEd6bVE9EiRmN2Y4OGNjNC0wYmJjLTQ3MDUtODU0Zi02MmNmNDcyMWZmYTcYACAAKAAwrdaA6eEwOKytkcDkL0CsrZHA5C9KHFZiZHo0eHBZYVV0OXVrSVN0MFFXNmdiREM5ND1aJyIl/////wAAAAf7Z3dvaEoxNVhNSWV3N2dFK0tXcFhjUVZMdnFjPWW7+Cq1ErABCEESqwEKHFpUTnBrUG5JTmZZYnc5VS9kNzk1ZFdUMUZYMD0SJDdmY2FlNTczLTY4OGQtNDE0Zi1iYzZiLTA0NDkwZjFkOGI5NxgAIAAoADCGwoDp4TA4jJ6RwOQvQIyekcDkL0ocSWxpVjNwd1plTlJQOEV6WFNlRStqdStYdVcwPVonIiX/////AAAAB+45cmZoNTQzWU9kYTAzZWlZbEU4VHkxMG1xT2s9ZYlQvLsSsAEIKhKrAQocR0xJVnZhSnZwamsvWUxEK0ppUlNRRzFFQS9zPRIkNzViNmRmZDctOWI4Zi00ZTFlLThkYjgtNzhkYzE3MjMxMDdlGAAgACgAMKvWgOnhMDip/5DA5C9Aqf+QwOQvShx6MWVHZUZMTU1ZVVN4d0FQOWI3Z0RWY04wSHM9WiciJf////8AAAAE929KeUxRL25zdGtTeGhrQkVFdGhyK2lzbVJRVT1l1gZSwRKwAQhAEqsBChw0RzVLR1E1MHpuU3NadkJmUTNReDRHK1lPbE09EiRiOGQ4MDE4Zi00ZjIyLTRkY2ItYTgxMC0xNjgwNGJhMGFjOTEYACAAKAAwurKA6eEwONCHkcDkL0DQh5HA5C9KHHJCUk4xR2FGYmxlbHUyQmlITHd2MW45cnJTaz1aJyIl/////wAAAAfcYm1wSm4zSnIvcm5XekN2ODF2bE5jYVlFS1NrPWUuG/iDErABCD8SqwEKHFRMYXYyQ0MraVcyM1luaDVMaDhHaU01YWdrUT0SJDlhYTFiMjc2LWJiNTAtNDgxMC04OGY1LWMyZjZmNDRmYTZiMBgAIAAoADCPwoDp4TA49IWRwOQvQPSFkcDkL0ocUm0wVnRadmZ0Q2tnajR0Nm9iYXh3YUJvU29jPVonIiX/////AAAAB7kxZ25oMUh1d3dZVWFrdEVUL2FFNDRrS3BzMzg9Zb+vDJUSsAEIPBKrAQocaSt2Vk9obzhyeTdnWk5la2VyelU0ZmdWcldVPRIkOTdkMzZhNWEtNmZmMi00ZWI0LTgwODktOWZkNzhkZmEwNzdkGAAgACgAMIPCgOnhMDiahJHA5C9AmoSRwOQvShxnNjdDUWYvUWJvMFVrTHRnMFBYWHZFMjdLamM9WiciJf////8AAAAG/TZxejVjNFNaZUZIVG54U0c3M3VRZXROck85bz1lz3xICxKwAQg7EqsBChw4V3JIVHJjclRyY0hVcVhHUm16bEZDNVQzVkE9EiQ3ZGJiZTkxOS1iMjhhLTQzNTYtYWRhMi05NTM1Mzk3N2ZjMzMYACAAKAAwgsKA6eEwOPSAkcDkL0D0gJHA5C9KHDZ0emlVOWJxb2ljREw2dHFFZU9KbGhmL1JqRT1aJyIl/////wAAAAb7dmRrZ0FJRlRjbmZZSi9YRUJ2YzZJd096VzBRPWWzYUg6Eq8BCFgSqgEKHGlkc1YwbjVaWUxxWHJvQjh3NE1oRHpKLzJFVT0SJDEyMjNkMmY3LTA2YjYtNDJlNC05MmI1LWIyYTkyYjZiYmMxNRgAIAAoADCQwoDp4TA42O+QwOQvQNjvkMDkL0ocelFuS2ZYaTIxcktWNzBkU2lFUHppdjU1T2s4PVomIiT/////AAAACWpYeDN0OW5uemIvSFlmT1Ntakx6MHQ0OW9ZST1lDlXaaRKwAQg9EqsBChxXdjRIelNLT3I3emV4azZTVGMwdlRuZUFTNGc9EiQzYmVmN2M5NC02MzAwLTRmNGYtOTFlYi1hZDNjOWQ1OWZmMTMYACAAKAAwjMKA6eEwOJ7TkMDkL0Ce05DA5C9KHHIvVTNZYzNFMTM4K3I4d3pVbW1mbWwwY1VNYz1aJyIl/////wAAAAb+QmxRYldPM3VpdUtWMUFDS1kyNUZJMlFZazUwPWWOka++ErABCDkSqwEKHEdUZXBNVUxkeHZXRlIzLzdwYWxlY09QQUlidz0SJDZjOGZjNzk2LTM3MWUtNGI2NS1hNWJmLTYxMjRjNmRiNDBmORgAIAAoADC7soDp4TA4sN2QwOQvQLDdkMDkL0ocKytzZWVmU2J1ZWRIZDh3TzNBb2l6ZkdaZVlFPVonIiX/////AAAABu1YTFllakhNUmlsb09xbmZLTUNWb1hUQzBKNW89ZS4b+IMSsAEIOhKrAQocN2JmT0J0bTZSZjZjQjdqUDlLMDA3OVZaUm1BPRIkMmNjYTljNzAtOWRmYy00Y2RhLWI3MDgtYjc4ZGQzYmM4NjBiGAAgACgAMLeygOnhMDjZ9JDA5C9A2fSQwOQvShx2Ynp1emVielM3VU5uRzllcTA0ZUdwWVpITk09WiciJf////8AAAAG9nRsUkUzNk9DYXRkcXhyRTF0VGl4V1VYUHp1MD1lKVVa2xKoAQhNEqMBChxnOXlqOHZkVDRNZ25Mak1BSXZpaTB0VXo0UkE9EiQ2ZjljMTA0Zi04ODRjLTQxNmYtYmVhNC0wZjYyMjRjMDc3MzkYACAAKAAw/L6U99YvOKXFkcDkL0ClxZHA5C9KHFpHU1dSbkJWZC9Od0NjR1kzTEdCL21uRC8xbz1aHyId/zEyTGRCVXpWa0tpS2l2MS9jdnlqM0lheUhOST1lm1ulJxKqAQgWEqUBChxZTEhrNzNGNU40R1c5V1Z0YTFaaVhhYmxuaVU9EiRmZTU1ZjVhZS05ZGI0LTRhYTMtYjA2OS03ZGQxZTJlNTE1MGYYACAAKAAwwLKA6eEwOOKwkcDkL0DisJHA5C9KHDhXRHVUTVlTeVkzaXNraVNlNmlxK2lvSUtGbz1aISIf//+tSFBZeXhUVEpuODhGTXJ0VGhmV25YUFF5ZnRBPWWcSkkSErABCDgSqwEKHGxuV2VhbDNmUENKNlBISUxwcENpYnRpYW92Zz0SJGJlZGI4YzQ1LTk4YzEtNDY4Yy1hY2JkLWY0YTZlMjcxYTc3NhgAIAAoADC4soDp4TA41+qQwOQvQNfqkMDkL0ocbU54TkxBYW9iSFhiM2RxVjZuQ2pNeHZJSjU0PVonIiX/////AAAABtpscGUvT3l3WU5mSGYvVzRCVENNUlk0Q29oRU09ZXvxyCoSsAEINxKrAQocV3RNSVVuUXN0dDlvRHZhR3o5bXMwcHZPYTNBPRIkY2M5NTI4YTgtZGQ0Yy00NzhjLWI0MDMtYThlZDk1YTYwOThmGAAgACgAMIXCgOnhMDijppHA5C9Ao6aRwOQvShxnQjA2VXNFamVMaFBTVTVGRytOVS9PZTJKaEk9WiciJf////8AAAAGtUliNXJzMTBrVVBLZ3JIemVlQmpFTXRVdXZvdz1lRdP+lxKoAQhGEqMBChxzUFlDaWJpYisvM2NURjZVWm9YS0lkTngzMFU9EiRjZTFhZjkyNy05OWMyLTRjZmUtYjIyMC01Zjg1YzJmYzkyMzQYACAAKAAw/L6U99YvOObPkcDkL0Dmz5HA5C9KHDRuVlByUitHUFJja0RsYzd3ZXJIYmlqS1ZnVT1aHyIdpEZ1NkViU2tqV29WMHJMZGtDa0F3S25aQi82az1lOP122xKvAQg2EqoBChxrRFBQbldrMjFRUHVOOUlvN21zT1Q4M2tGbzA9EiQyNDk5MzhmMC0xZTA3LTRhMDMtYjcwNi0yNzZiYWY3NGM0NmMYACAAKAAwhMKA6eEwOLTRkMDkL0C00ZDA5C9KHEZkS1ZBTGNqZEx1TEQ5MEhXT2dxeTRKRlpFZz1aJiIk/////wAAAAZqSlZSWkxybmRDY0tYYUt1VC9Hby8xM043ZmM9ZevtKcQSsAEINRKrAQocakhma1Z4VnliVWI3Rm9KcklOaXJNWmxldlFJPRIkNmMzMjEwZWUtOWY4Ni00NTAzLTllNzMtYmFhYWViMDJlYTNhGAAgACgAMICulPfWLzjO/ZDA5C9Azv2QwOQvShx1OXgyOU9MTjhTOThaMGpiUm9hUlNKSURDODg9WiciJf////8AAAAF/jhlcURoenlLeU41ZWFsK2dzdVRmVFpjMEh4Zz1lAAAAABKwAQg0EqsBChwybGE3cGxTbE8xVlp6OFB4am9rVHNlRWVVb289EiQ5ZjBiYWJjYS0xMzA1LTQ2NWMtYWQ3Zi0wZTE5MTU5NTE0MmQYACAAKAAwtrKA6eEwONXlkMDkL0DV5ZDA5C9KHHpKWTZWc0hSa1FrK0puanRQeE9EczVFN0NYWT1aJyIl/////wAAAAX9YzZsbUxnZTIwckdEL3YwVlpQak1IbGt1S040PWWyLIOGErABCDMSqwEKHGIwQXU5RUdSNmxFUHorREErQUtYeXJkaHlEMD0SJDgzOGQwODc2LWNjOWEtNGZhMi1iMjcyLWFmNWNjOWFjZjE4NRgAIAAoADC1soDp4TA41OCQwOQvQNTgkMDkL0ocY293Uk5ud21hV3hwcndzc0x4bXU2VlVSOUd3PVonIiX/////AAAABfp0RTNGM0MyWHZYT3lFWjRnbU92S3d6TlN6REE9ZTw9QvESsAEIMRKrAQocZ20zZTQ4d21IS2w3ckQ2OTBqOU1DYklIbHlzPRIkZGVkOTQ0NzAtNzgzMy00OWEzLWFhMTQtMTljMmRiZDNiNDIyGAAgACgAMLSygOnhMDix0ZHA5C9AsdGRwOQvShxuT0ZuUTRzM1JjcjRteWJkNzZ0SlVZbDN2TVU9WiciJf////8AAAAF6lQ1Vk10dis0M0ttbHR1aW9TODZBK2FjQy9aVT1lDJPR6xKwAQhCEqsBChw0b2hoYk1Hck0yNTRzNXJXam1DYXkyUldFY2s9EiQ0NzdmMDYyZC0yYWUxLTQ1NmYtYTFhYy1jMDAxZWUwYjJkOWUYACAAKAAwsrKA6eEwOPnUkMDkL0D51JDA5C9KHC9ZUjFYamwxaXRUbFUzQWJDTjlPdWwvMDdrST1aJyIl/////wAAAAf3YWN4VWViWXkxS3hSM096VndpY3hWRUZXY3FBPWU8SIE5ErABCCsSqwEKHElnZm1jMm02Zm5qQThBK0RONDlyMFpOR3NRYz0SJGE2NDZjNzUyLTU4ZjUtNGU4Yi04MzNmLWNjMzBkOTJhZWU1NRgAIAAoADCzsoDp4TA4/aKRwOQvQP2ikcDkL0ocS1MwUVFYZW54RjBSSGpBVUY0dmhPbU0vbWk0PVonIiX/////AAAABPtVdU9hYnJMWlU5YjRUVEZaY2xXL05DV2hqZkU9Zb8o4X4SsAEIUxKrAQocKzlSZ0gyM29Ec0ZXZ2FiZ1VNL1hnNDhqcnZBPRIkOWVjZDAxNzAtMWY3Zi00MmU1LWFlMWEtNzQ1MmI3MjZlOTY3GAAgACgAML6ygOnhMDjXn5HA5C9A15+RwOQvShxnK21ZcG1yaUFveWE4VzJSaVBQcjNIWG12OVE9WiciJf////8AAAAI7m1PNm9Lc25sR2Z5VVFJZDltZlE1eDBSN0cxWT1lyGkroBKoAQgKEqMBChxqSTJwWXZUVmFmNTJBdmk1aTlzdkM0L3RuMDg9EiQ0MmUxYjZiOC01YmU5LTRjZTUtYjExNy1kMWE0M2UxNDQ1NjcYACAAKAAwv7KA6eEwOKT2kMDkL0Ck9pDA5C9KHFFoU0JoVkJCN2UyaWNvVHMxWW5IYmhjNTl3ST1aHyId+mdLUmxQTFZBUWtTa0x4NWREQy9PVGdnTStEdz1lt79RZRKwAQgoEqsBChxzRE12M3FnclJSQjYyUEw4bG5yenZxLzErTkU9EiQ1MmRhZjdlMS00Y2QwLTQ3ZmEtYmExZC00MDY5N2M5NGYxNGUYACAAKAAwh8KA6eEwOMTWkMDkL0DE1pDA5C9KHDh0R0phODMrZlJyMGhnbStXejRsWk1mSGtiZz1aJyIl/////wAAAATdYm81bkJKaU1nemFMOFJob0htMDZjQy91ZEdRPWX6IqzxErABCCcSqwEKHDBzejJxUDZqU1VKVElreUp1QmxveHNGNFdSRT0SJDE5NjFkMjBkLTJhN2YtNDMzMC1hYjgxLTRkYzhiZjkyNTI4YRgAIAAoADC9soDp4TA46c+QwOQvQOnPkMDkL0ocTTBIMzVOZXpOQkdGYVNrTHNrbU1GejdiT3pJPVonIiX/////AAAABLpYTHJLSENZTkF0UWxmMFpEbldXc2dEbGRCSFE9ZVAv49wSrwEIJhKqAQocVm1ML0kxdndtb1RyL1ZEREZZQzY0ZHFmd3NFPRIkZWYzNjliOGYtMWYzNS00ZTJhLThmNjItODBmOGQ3NmQ3ODY0GAAgACgAMKDWgOnhMDjiq5HA5C9A4quRwOQvShxNam5PM1YvNjd6YUpDaXJXeWNiTDNSSk1ST3M9WiYiJP////8AAAAEdENsb1ZHaGs0TjlzWUtrQmY2dHpIazdZNktZPWVEa1sGErABCFYSqwEKHFRSSkE3cnc5Ykp5aWRBSXQ4Q0ZGd3lRTGFGWT0SJDg5OTE4ZGU0LWI0M2QtNGNhMS05OWRjLTM2YTgzYTNlOTgxZhgAIAAoADCxsoDp4TA4r+KQwOQvQK/ikMDkL0ocMUxucE5rTzk3cncrcktRcmkyRXFkT1hPbTdBPVonIiX/////AAAACP1qQ1JjNGlwdDJGTHRCSURRcU1XZzRqT1ZVdzQ9ZfCqb5MSsAEILxKrAQocUEs3WE5CUjh0U2VlN0FrbjNwb1pkMlU4RnVJPRIkOGVkMThmNWQtYzE5ZC00M2I3LWJjYjktNmEyYzhlNTEwMzlkGAAgACgAMLCygOnhMDjPgpHA5C9Az4KRwOQvShx5elNYUHIzdTM1Z0Nxci9abFJxWW1mTGhvaUk9WiciJf////8AAAAFqkZ3a1d2NHJ0aWd2T2QxUFpJRTVKckhvRnF6az1lt50fNhKvAQglEqoBChx5Mnc0eTBmdXNmcmdaNTVNUis4N3Q5SW1TVGs9EiQ1YzMzZmZhOS1iNWRmLTQ1M2YtYjg2MC04NzU0NGJhNjEzNjEYACAAKAAwgcKA6eEwOPrZkMDkL0D62ZDA5C9KHGZZZmRIKzl6cGpGZGRPcnZtWGNTcEhaNWZmQT1aJiIk/////wAAAARCS3ppM05oYzJsZXNvVHRoY0hmVzgycTZtdHc9Zd/TOxASqAEICRKjAQocQ1g5eXQwVXErNWkxVDByVit4UkVuc0Jaa1g4PRIkMDg3ZWMyZDMtMGNhNy00ZjJhLTg5OTQtZGQwNzg1YWZlYWRhGAAgACgAMLmygOnhMDiOzpDA5C9Ajs6QwOQvShw4Uk1aRlZFcXkrS09rRTFtUk5Ua1pOei9kWFk9Wh8iHfVMRERFZmMweWM2N0liR0tyM3JoSnZqb2FjSlU9ZUt/55ISqwEIJBKmAQocWHd5WlkyL3doeDFBRXVMd3dod2dMTXpPK1hVPRIkYzI4NjgwMWQtMTdlOC00YzAwLWFjMjktNWQ4ZWM1NTc4Mzc3GAAgACgAMJ7WgOnhMDix7JDA5C9AseyQwOQvShwyK1NKWktLQmJ3RENNdWRXQk5yNEVBalQ5alU9WiIiIP////5BWlhCRFdlWC80Y0Vsa25iTXU2RzlkZnFDWW89ZYtQXEASsAEIYhKrAQocbnN3QThTZW1JdW91MjIyeGIwRStXd09JbDZvPRIkZjg1NWU0MmItZTJjZi00ZmEwLWIwNGYtZDNiZjNkZDI0NGJkGAAgACgAMKbWgOnhMDiHr5HA5C9Ah6+RwOQvShxBYnhNeGg5UTlxbys5VmZPQnNuYXFVM0Z1djQ9WiciJf////8AAAAK3VkwSEdZMHd1MzRWMU1ERUFUWFk0YWc1eXMvQT1lHIupyhKvAQhQEqoBChxDTC9CVW13dFJHZ3YyNUE2dHhOUEVpd3o0Ukk9EiRiMDViZGQ0Yi0yZjNhLTQ1OGUtYWM1Ni1jMGVhNDU0M2E4ZWQYACAAKAAwmKaU99YvOIzpkMDkL0CM6ZDA5C9KHHNha3MwdmkzVVJWZlR0SFlLUFJ6dERZaXd6ND1aJiIk/////wAAAAh0dm55WTF1YThMdkhrZjhqNmg3eFFHWThDMzg9ZQAAAAASqwEIIhKmAQocUWJKcmRzekdZZE5WZ0tWSmYrOXRkelVyTFhRPRIkZmEwNWUxNTMtMGE1YS00NDVhLTkzNTYtY2I1YzgyNzA2ZmVjGAAgACgAMK+ygOnhMDix1pHA5C9AsdaRwOQvShxMdXRRV01iSUh5KzlkTkxnbmcvZks3NjNOdkk9WiIiIP////pUMHFnT1BUY0hsNXFmcXRCdU4yY2hranQ1K0E9ZQgHeCMSqwEIHxKmAQocQlU3eFR4ODBKbi9YUWJnK3o1eUVnZjRocE5nPRIkNjI0OGIyNjAtYmM3OS00ZTEwLWJmZjMtOWQ3YzhmOTJlMDg1GAAgACgAMIvCgOnhMDjV25DA5C9A1duQwOQvShxuUVFFdTBDNmpNcHFuTmlUQTNVRXllVkNDMUE9WiIiIP///9RCalJZeWl6U2VRdTg0UHZLeXlRN2FGMmY4Vkk9ZRHxdOkSqwEIHhKmAQocK3ZnU1FSd2hjSXFSN0E4QXBpN21zbTlYY2hrPRIkNTNkOWRlNzItNjU0ZC00NmZkLWIyYzgtN2IwMGMwMjU2YmUyGAAgACgAMK6ygOnhMDig2JDA5C9AoNiQwOQvShwweVJXdWNtWTRlWmZxSUN1dVNzSTREQlUzblE9WiIiIP///6lOTkUycCtGNitTNzBhRVdtZzZXMEVOSEtnUlE9ZfMJ/NESqQEIEhKkAQocVVdEKzlXbVY4UFFMWjZIaUE1RzJhNm9YSTRBPRIkYWRiMzdmMGYtZjg3NC00MjRiLWFkMDktODcyNmI4YTk0ZmZjGAAgACgAMK2ygOnhMDjdvpDA5C9A3b6QwOQvShxKU3AzSnU3Z3MyVTdnUmJJeGJYN1VjeElFVWM9WiAiHv/7RzBnK3FrRHVhcndPVmFnK0RCVk9KNEEwdCtvPWVdU3cqEqoBCB0SpQEKHFNEdkFzVW5wV0NpWGdTYzVNN0hVR2MwR2gwZz0SJDYyNGRlNWFkLTVkN2UtNGQwZi1iZDEwLWQ2NzlhYWU0YTcwORgAIAAoADCAwoDp4TA4traQwOQvQLa2kMDkL0occUhmYTRGU241NCt5ZTdWbU1IVmRjRjhBZUFzPVohIh////9Ta3ZTM1BhbWpua1lIV3ZhU1I0REE2c3hmVEE9ZdMJNQYSqAEIDRKjAQocdHF4OU9tZVRYUWY5WlJQbUxlbS9sVUROSnVBPRIkNTM1YTUxMTItNDM0Zi00NjI5LWEwNDAtMGUzMjk0MWMwYzNiGAAgACgAMI3CgOnhMDjfs5DA5C9A37OQwOQvShxISVJ2SWlMQnphRkVhSStDS0ovMW5uQnhNRWM9Wh8iHf9rbUxTWERVR1hkQlhzWnZOSHVrUlBkaklxQUk9ZYugjNESqgEIFxKlAQoceDhCWTVKTFN4NnVVS0hzVWt6Q0ljWDRLWlRNPRIkZGFjYWIxMDktYzI5Yi00OTMxLWJlOWEtNDgyODc4ZDM0YzgxGAAgACgAMJ3WgOnhMDjfyJDA5C9A38iQwOQvShxiZC90dnpLdnM4SlZPRUtacmVrU3BUMndRN0U9WiEiH///1m9GbEN2RFBFdDdoL3k4L0tJVk1HMno4anhuaz1lnEpJEhKoAQgLEqMBChxWZHlBOHFZdVRHOTAxQlMxMkNDWE5WeEJEUjg9EiQzMzEwODg1Ny1hYzA2LTQ1MjAtOGI5ZS0wNDVjZjE3ZDYyZDYYACAAKAAwhaSA6eEwOMi+kcDkL0DIvpHA5C9KHElCV0RVK0cwNVFDWHFvL1Q1emxtZlppRXdZYz1aHyId/XF4SnJDSlpFcVI3U3FnTTAwMk9FMXZMRE1CZz1lEzQLtxKpAQgREqQBChxMckV0QUo2aVdmQW52T1YrdEd4OEREMmJPQ1U9EiQ3NTNhYTlmYS03OTMzLTQ3NmMtOGNjNC04MzJlNjVmNmY4MjUYACAAKAAwhKSA6eEwOPrekMDkL0D63pDA5C9KHG9LQ1ptWHlQK2FSYUN1Q3lWM3Y3bnMreGVJWT1aICIe//Y4L0hNNk9rZHdjUzNJYWgwMEtabUljM0IxTTA9ZeEuWRASqQEIFRKkAQocVjYyUmVWRk9WUGNMbUNoN3lxK0N3dFlFVDlBPRIkZWQ2OGU4YzEtMDU5Ny00OGUzLTg5ODYtNzFhYWU2ODM0YWQ2GAAgACgAMIekgOnhMDjoypDA5C9A6MqQwOQvShxFaGs0WUhHRmxWNGZIWEg5SUQrb3VQQVl0RUE9WiAiHv//WlN6YjNSaFgvTTNmdG1XZTNJSXdpdm8vSzUwPWV/fZFmEqkBCBQSpAEKHHZyT3ZoZlF6TlhLYXlIMnI3d2tjd3NYQ3hIST0SJGNkOTRmZGRkLTYzMzQtNDFiZS1iMWNlLWM2NmViN2Y2NjUyORgAIAAoADCc1oDp4TA43cOQwOQvQN3DkMDkL0ocWG5Nd1pmYkFpVDlKRXh5dklVMDQvSmszbFdRPVogIh7//kxmSkZuZStmTmYxdmxYV1VIcXV0YjNTUG8rMD1lDnzumhKoAQgIEqMBChxrRWp6V3l3bDlTMFFSWGEyZkF4US9ZWklBQVE9EiRmZjg4ODQyNy1hMzZlLTQ5YTItOGMxNC04ZDI1Y2Y0YmY0MDUYACAAKAAwgqSA6eEwOOq4kcDkL0DquJHA5C9KHDY1QmN4aFhkd0hlbWY2NGV4Ynl3V1hHQ3BmUT1aHyId6jMvQ3VLZGFyVXEveXkyOW13UnhKKzdaMVRocz1lAJUWthKwAQhaEqsBChxiWGVidG9RaXQzcU8zcU5LSWVXR1haMFRUbkE9EiRlNDkyMmE1NC00Yzk2LTRkNWYtOTJmNC1kMzkzMzhiMjdkNTcYACAAKAAwgaSA6eEwOPztkMDkL0D87ZDA5C9KHFhFcFVVMzRTYVZZMUYzTmxYUm1qYTJYeld4Zz1aJyIl/////wAAAAnaZDg1Vml6UG9rbmprMzhSMjF3UWN4ak1vV0lRPWX0nXMNErABCFESqwEKHHRIdG9CZXdmc29DdTEvTGZBb2gwMGc5bnlGRT0SJDI4ODViOWFhLTYwY2UtNDVjZi1iNjZkLTE5YmQ2ZmFiYTNiYxgAIAAoADCApIDp4TA4ubCQwOQvQLmwkMDkL0ocNUpXSzNubEcwNDZSZDdQY05jWnBQS05MUDhnPVonIiX/////AAAACLpyUTFtVDFlQ0NISFhqc1BSZTI2NXh1RTZSSk09ZcolbOwSrwEIPhKqAQocU3E0OU51RE5JQ3pGbDVxY0pWNFdxU0FqeHpvPRIkZjFmODgyMGQtYTg5MS00NDM2LWEyMjUtNTA1ZjhhNGJlN2ViGAAgACgAMP6jgOnhMDjLjpHA5C9Ay46RwOQvShxyMjVodHc2aEdDa3gxVC9jTkJ2bmFBZFBvZ0E9WiYiJP////8AAAAHcmw4RlBwT1hoczZCbG80bTdWZWVBalFmSVVNPWVEfUagErABCCwSqwEKHDFyQ0FYY2dhWUVXc1NuRlR2UFQrSkxkenhqOD0SJDE0ZDc3Yjk4LTc2ZTctNGExMC05NTU4LTdiYjQ1MTFmNmE0OBgAIAAoADD/wYDp4TA4k62QwOQvQJOtkMDkL0ocTy92QjVGbUMzaThScWZFeTg4UFlEUGFNd0xrPVonIiX/////AAAABP05MlpiMjhiNmlMbmI0TDBmL0EzaWNLTlIxS3c9Zft6O54SrwEILhKqAQoca0ZQazdNNnU3K0duaUl2ZGltam5LWmJ3MExzPRIkY2Q2ZmQ5ZTctYzkwYy00NDE2LTgyYzEtYzUxOTlmYjc2OTRjGAAgACgAMP7BgOnhMDiSwpDA5C9AksKQwOQvShxpek1uM2JWV1dVSytTL3hPUW9ZWHI5dlNMUlU9WiYiJP////8AAAAFVVMzbEdGY2EvMk1kSmpKTG5lM3kwNnJNclZrPWVF0/6XEqoBCBsSpQEKHGpaeXVocUt5V3MrTmhKZVZwWi9PWmU4RDMwRT0SJDU5NjVkZjg0LTZkNmItNDU0My1iOGExLThjMDlhYjU5ZDYwMhgAIAAoADD9o4Dp4TA4qPqQwOQvQKj6kMDkL0ocZXlaSjBwbVlFOGt3R2lsb2dzTCtyVjJsSGs0PVohIh////1SZ2hDa0VNOXFCbW5WTmNIQytldk5qdGEwWmM9ZbtbzNYSsAEIKRKrAQocZTBqQnd0S2pDOTZZRTVGVjJVQlRFc2dFR09jPRIkY2VlNTdlNTQtMTc4OC00NGMwLTk1NmItZWZiMGM1NjU0YzNjGAAgACgAMPyjgOnhMDiDx5DA5C9Ag8eQwOQvShwxNWNTMWlieC9YUGhOOXV6Mk50WXVpMXBFL0U9WiciJf////8AAAAE7jNPbHd4UVpRYWxqODVwdytGTCt4UUhVNFRNQT1lYEP0NRKpAQgPEqQBChxmWkdmendZNUpFaE5MbzNmTzNtZnFKL1V4L3c9EiRhZWM2MTIyOS00NTAyLTRiYzctOTNhMi02Nzc5Mzg3ZjU5Y2UYACAAKAAwhqSA6eEwOMikkcDkL0DIpJHA5C9KHHl6dmEzTE5VRUV1VGFhOHRoLzdzSk1mcDQ0Yz1aICIe/9owSm5jUE1xWGh3YXpBQW95SUNIZmlaTXNWSUU9ZYUxjboSsAEIMhKrAQocbnRBTEdVMGVRRWJRQnNSVCtmQkFkMmh1a2UwPRIkNDlhYzY3MDMtZDliMC00NGZjLTlmZTQtMmFlNDI4ZDU4MmQxGAAgACgAMPujgOnhMDiA+JDA5C9AgPiQwOQvShxzM1VDZnNBWElScVdpbFpvbGZaemRRcEdPeVk9WiciJf////8AAAAF9UlTQ1VSZjM0blppZEE5VmUxU3Y3R2FXMTE2VT1lO2uSDhKpAQgTEqQBChxtTVYrUXZGd0FPSzNodDJuNE1mcVVRc2IveHM9EiRjZGQwMjg1ZC01ZjAwLTRkNTgtOWQyNi1jNWI5MWJjZWVkODEYACAAKAAw+qOA6eEwOKjFkMDkL0CoxZDA5C9KHDVWdThKcFdJM2J5amxvRWQ5MzZLVEFQMUwxVT1aICIe//1jYXp6cWN1bU4yWEVTaTVZNnAzWWErV2s2MjA9ZZ84ikUSqQEIEBKkAQocTFVsZHM4RFN4ZUIyV0tNdWIrK3hZVWI5bjFvPRIkNmY4ZGIyNTQtYTBlZi00NGVhLWI1YzItODNmZjVmMmU3NmI5GAAgACgAMPmjgOnhMDiQuJDA5C9AkLiQwOQvShxGenNOazZFbTB5R3lMQzc2d1hyNU5YWXgwWmM9WiAiHv/tRlVab1o4YW1OcWVZc1ROQlpGSnBwdGl2djJVPWXhLlkQEqcBCAUSogEKHE9jaDM0b3pSY2plZDMzenkxY3B1SHJweE85Zz0SJDBlMDI1NDMxLWM5MzYtNDgxNC04YTBjLTJmODZkNjk2NmYxMxgAIAAoADCknZT31i84yKuQwOQvQMirkMDkL0ocOWVkQ0NocGN0QkJjR2kxMFpSWGdqNHY2ZERBPVoeIhxUOGVxdWIrd0RJYktOcS83aGE1WE5JZjZDT2c9ZQAAAAASqQEIDhKkAQocN2gzeGRyZmhXR1BVV29OTCszTS92Q284YVZnPRIkZmM1Y2JhZGYtNTUzMC00NmI4LTlkNjQtNzk1ZGE5MzU0NmQxGAAgACgAMKSdlPfWLzizzJDA5C9As8yQwOQvShxMN0xkUWxKRkt3dkpoWEZlcE9pSXZ5S21aVGM9WiAiHv+1NmxjT29SRFhFa1puQWtTZkJ6aWRsaG0yOEVVPWUAAAAAEqoBCBgSpQEKHFBNWDZkWThmTGlXa1Q5a2tnNU03RnV6NDBkOD0SJGFiNDY4NmY3LTVmM2MtNGI3MS1iZTM4LWY4Mzc5MmY2Y2Q2ZBgAIAAoADD4o4Dp4TA4seeQwOQvQLHnkMDkL0occGZLT1ZuNTYzRG0yMENqd24xOVJpU0RBSDVJPVohIh///+s5STNGYjZmK3dTN1RHTEVLcU1CSHNWb3dnNUE9ZZxKSRISqwEIIBKmAQocY0hHcVROaklTaG1vY3hONmJQbHYvZUVMSWhRPRIkOWVmNWZkMjgtNDg5ZS00NmRiLWE3ZmEtYjM1M2RiZjIyM2ZkGAAgACgAMJimlPfWLziK5JDA5C9AiuSQwOQvShx1YjZuZ2xIM3Vaak1xNUJIZXUxWVVXKzJ1NUE9WiIiIP///+pGNTJlTnY1c2FFYmtYVWpkY00yRUx4eWhxcDg9ZQAAAAASsAEIWxKrAQocNUp6NzJpcmdobXJyUmJXT1lyY1I0cVZyRXJVPRIkMjdjNjJkMmMtODkwMy00MmJiLWEwZmItOWQ3Zjc1NTdmMTRiGAAgACgAMIOkgOnhMDjbk5HA5C9A25ORwOQvShw1Z09oTkJxakZPSzBuNXYzOGVBRWQ0QlZzdEU9WiciJf////8AAAAJ7TVWTGZsay90dFc2NitBSjc5LzB3UnhVN1hOVT1lHoliARKwAQhXEqsBChx1dTBiNHlPblBZS3F0ckZOTUNJV1F0Y29CYVE9EiQ3ZWVkZGRhNC0zNzMxLTQ5YjctYjQwYS02ZjcyMjEwMzk4MGMYACAAKAAw96OA6eEwOLe7kMDkL0C3u5DA5C9KHGhIYk1kcSs4L1U2UmlSbFVzbnFyRXh0R0gwTT1aJyIl/////wAAAAj+OFZlVTkzL3VtSitLQks5Sk9JS0lmc0hGMHFzPWXwh8AfErABCFISqwEKHEJtYm4wWGtaS0ZXV0NoVW1XRWVtRE1wOHBQVT0SJDczZWZmNTM3LTVkNWYtNGQ4Zi04Yzk1LTQ0NDMzNTM1ZGNlNxgAIAAoADD2o4Dp4TA47LmQwOQvQOy5kMDkL0ocMDV5V2gyamRzOUlsc3dPNUg0dy9Cd1gzQXJrPVonIiX/////AAAACN1oR2Fsak5YK3hVQ1BPczJVUGx3c285NEZnNE09ZchpK6ASqgEIGRKlAQocYTRrS0RUQ3NhRm5LZmZZQ1Bud1ZMZHdGWUs0PRIkMjc5ODJiYmUtYTAxNy00NzkxLWE2YWItZGJhY2IxNWY0M2E0GAAgACgAMP3BgOnhMDij8ZDA5C9Ao/GQwOQvShx1eXp6MVZjUjBHVWZ0a3hXSmhmTVp4QWtEUlk9WiEiH///9VVvckxIOWErMHpqMEt5MlRPOXo5VXYwSEhKZz1lEDD/5BKoAQgHEqMBChxobllYcis2MXJLYWFGZWtXQUlqWWVhNTY0aWs9EiRkYjJiYWI3MS1mYTliLTRhYTAtYjhjYS0zZjE2ODY2MjIxMzkYACACKAIwmrvm+vAwOMmpkcDkL0Cau+b68DBKHE9jNFgwSzdPa01pRVRZMmlLMUVQbnh6dkVFST1aHyId1XNjNkZ4M3BhV3BsOUd3bFRsei96eFZCY21Rbz1lEDD/5BKnAQhFEqIBChxZY0QrWERmN0RzdnI5SWpjc2s1UndtNER1NzA9EiQ2MDJhZGNlZC05NDkyLTRlYzEtOTA1MC1jZWNmMzFmYmVmYTUYACAAKAAw/L6U99YvOO7BkcDkL0DuwZHA5C9KHEZKMHNuY2xFaUNCbXd4ZW1DbUlwSE9od1JBaz1aHiIcSUV1aXZvUERBNkRoZFY3ZlEyT2xadzlvdFVRPWXEkXbFEqgBCAwSowEKHDlZeXhQZGxXc1Jnc3ZKY24yOEwxNE1YK1E1VT0SJDdmYjNiNDU0LWY4MGYtNGMxMy04ZDljLThjMzA5MDU4MjE1NRgAIAAoADD0o4Dp4TA4gr2QwOQvQIK9kMDkL0oceEFoZUk1NWVMUzQyRGJPVmtxUFltNFZqQXJZPVofIh3+aVRxK3B3WCtKbU1SL2QrWjBaRGx0TjY4OTkwPWUQMP/kEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGZlMzUzZmI2LTc1NTEtNTEyNC05MWNhLWUyYTYwNzY0MGEwMBgAIAAoADCP68bZlC84jf6PwOQvQI3+j8DkL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEIBhKjAQocWDFwdTZGeWM1WFFzK0RIb3YvOCthbDNUNzNrPRIkMmE0NTc1N2ItYWYxMS00NzA2LTkzMjUtOGJhY2JjMDNlNjVhGAAgAigCMJm75vrwMDiTspDA5C9Ambvm+vAwShxObHdzTzYxZkprMCtCTzBhTHgvVmwyaVJhMnc9Wh8iHao1UzRjWGFCdWppd1hBK3JQMnY4WGUxQzFCYzQ9ZTJ565kSqgEIGhKlAQocTlRDMFpMRXFYTE1NVDhJbTRyc1RzZFJscGRBPRIkY2RkOTkzOGEtNjk2Yy00YWZkLTk1NjYtNmIzZWZkZTY4MGFkGAAgACgAMIrCgOnhMDiAjZHA5C9AgI2RwOQvShxralhQZW1rVXo4ME9od0ZWOXJtN05HOXJRMG89WiEiH///+k02ODlvaks2VjQzekJsdWRDbXhuay9OeTVETT1liAG3kxKqAQgcEqUBChx3OEx2aDN1bExWVlYvcVNBWnRieTY2Zkp4M009EiRiODFmMzA2Yi01ZDdjLTRmZDItODU3Ny0yYzdiYmRjMThmYTEYACAAKAAwpJ2U99YvOKjAkMDkL0CowJDA5C9KHHo3ZjlzVkQ4OEFzVG5oUXYxdTRzaVFEWEp6QT1aISIf///+R0wyRlNIWUpCaXZMOTNGTHFSOU5jcTFSMHVFPWUAAAAAEqgBCEsSowEKHFVHa0w5cVIzTmxycnBzc2pSMG4yV2llOEZEND0SJDhlNmYxNDUzLWM1ZjktNDhhOS04NDIyLTQ5YWQ1ODYxNzlmNhgAIAAoADD8vpT31i841MqRwOQvQNTKkcDkL0ocYTlJVjV0aDlSWmtyMERDd0wybUxaSy9XZjRjPVofIh39WUNGckI1OWVpK1dWQU1kTmlzWE84ZnVlRXhBPWW3PC00MAA4AA==",
+   "version": 1
+}
